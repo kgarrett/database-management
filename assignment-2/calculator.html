@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>Calculator Form</title>
+  </head>
+  <body>
+    <p style="font-size:30px">Simple Calculator</p>
+    <form action="calculatoranswer.php" method="GET">
+      <p>
+        First number:
+        <input name="number1" type="text" />
+        Function:
+        <select name="function">
+          <option value="add">Add</option>
+          <option value="subtract">Subtract</option>
+          <option value="multiply">Multiply</option>
+          <option value="divide">Divide</option>
+        </select>
+        Second number:
+        <input name="number2" type="text" />
+      </p>
+      <p>
+        <input name="submit" type="submit" value="Submit!" />
+      </p>
+    </form>
+  </body>
+</html>
