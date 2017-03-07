@@ -1,0 +1,2 @@
+<p>Link to the working page: http://corvette.ischool.utexas.edu/~kag2784/calculator.html</p>
+<p>Build a simple, four-function calculator (add, subtract, multiply, divide). Build a form that gives the user a field for the first number, a drop-down field for the function (by name), and then a field for the second number. When they hit the submit button the PHP script should return the correct result.</p>
