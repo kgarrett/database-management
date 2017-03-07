@@ -1,0 +1,2 @@
+<p>Link to the working page: http://corvette.ischool.utexas.edu/~kag2784/certificate.html<p>
+<p>Help a trainer to produce custom certificates of completion. Write an HTML form that will ask for the student's name, the class taught (presented in a drop-down menu box) and the date of the class. You should have a corresponding PHP script that will produce a graduation certificate with the information you gathered.</p>
