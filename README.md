@@ -1,2 +1,6 @@
-# database-management
-Class assignments for INF W385M with Prof Stan Gunn
+# INF W385M: Database Management
+
+<p>Summer 2016</br>
+Instructor: Stan Gunn</p>
+
+<p>All errors are my own.</p>
